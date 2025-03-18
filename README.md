@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi 👋, I'm Muhammad Zareef
+
+A passionate frontend developer from Pakistan
 
 <!--
 **MuhammadZareef/MuhammadZareef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
