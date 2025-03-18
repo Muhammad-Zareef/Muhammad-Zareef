@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Web And App Development<br>💬 Ask me about Front End<br>
+🌱 I’m currently learning Web And App Development<br>💬 Ask me about Front-End<br>
 
 <!--
 **MuhammadZareef/MuhammadZareef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
