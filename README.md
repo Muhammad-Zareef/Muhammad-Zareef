@@ -1,6 +1,8 @@
-Hi 👋, I'm Muhammad Zareef
+<h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-A passionate frontend developer from Pakistan
+# 💫 About Me:
+🌱 I’m currently learning Web And App Development<br>💬 Ask me about Front End<br>⚡ Fun fact I can speak 4 languages
 
 <!--
 **MuhammadZareef/MuhammadZareef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
