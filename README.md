@@ -31,9 +31,10 @@ I'm a **full-stack web developer** passionate about creating responsive, user-fr
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio](#)  
-- ✉️ [Email Me](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zareef-3472b3368)  
+- 🌐 [Portfolio](#)
+- 🧑‍💻 [GitHub](https://github.com/Muhammad-Zareef) 
+- ✉️ [Email Me](muhammadzareef709@gmail.com)  
 
 ---
 
